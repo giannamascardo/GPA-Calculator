@@ -1,9 +1,5 @@
 '''
-GPA Calculator
-'''
-
-'''
-Grading Scale
+GPA Calculator Class
 '''
 
 
